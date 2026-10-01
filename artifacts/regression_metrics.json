@@ -1,0 +1,16 @@
+{
+  "mae": 180.80234366902062,
+  "rmse": 232.38658893430033,
+  "r2": 0.9945743972961283,
+  "seed": 42,
+  "epochs": 2000,
+  "learning_rate": 0.05,
+  "features": [
+    "plot_area_ha",
+    "rainfall_mm",
+    "soil_ph",
+    "seed_kg",
+    "distance_km",
+    "arrival_hour"
+  ]
+}

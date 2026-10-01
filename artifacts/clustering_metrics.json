@@ -1,0 +1,24 @@
+{
+  "k_evaluation": {
+    "2": {
+      "silhouette": 0.21552747303865688,
+      "inertia": 4563.303448754805
+    },
+    "3": {
+      "silhouette": 0.17219643444736193,
+      "inertia": 4066.5900681029716
+    },
+    "4": {
+      "silhouette": 0.15919688739563395,
+      "inertia": 3698.5079130313507
+    },
+    "5": {
+      "silhouette": 0.15853681994095764,
+      "inertia": 3428.7947364455968
+    }
+  },
+  "selected_k": 2,
+  "selection_reason": "highest silhouette score",
+  "seed": 42,
+  "cautious_note": "Clusters are descriptive groupings, not verified real-world categories."
+}

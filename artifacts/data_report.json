@@ -1,0 +1,98 @@
+{
+  "group_code": "AI-G15",
+  "sha256": "c6b0fde2af20b5bfafeaddc2152bcc04ab0ae009210f3d1dacb6ec9a1d4bdb20",
+  "row_count": 1000,
+  "feature_count": 6,
+  "missing_values": {
+    "record_id": 0,
+    "plot_area_ha": 0,
+    "rainfall_mm": 0,
+    "soil_ph": 0,
+    "seed_kg": 0,
+    "distance_km": 0,
+    "arrival_hour": 0,
+    "actual_yield_kg": 0,
+    "dispatch_attention": 0
+  },
+  "duplicate_record_ids": 0,
+  "descriptive_stats": {
+    "plot_area_ha": {
+      "count": 1000.0,
+      "mean": 2.57294,
+      "std": 1.340198749846115,
+      "min": 0.3,
+      "25%": 1.43,
+      "50%": 2.55,
+      "75%": 3.7425,
+      "max": 5.0
+    },
+    "rainfall_mm": {
+      "count": 1000.0,
+      "mean": 85.13680000000001,
+      "std": 24.954220061121102,
+      "min": 25.0,
+      "25%": 67.7,
+      "50%": 85.95,
+      "75%": 102.92500000000001,
+      "max": 160.0
+    },
+    "soil_ph": {
+      "count": 1000.0,
+      "mean": 5.808140000000001,
+      "std": 0.44475402926398155,
+      "min": 4.55,
+      "25%": 5.51,
+      "50%": 5.81,
+      "75%": 6.13,
+      "max": 7.16
+    },
+    "seed_kg": {
+      "count": 1000.0,
+      "mean": 498.6614,
+      "std": 269.53982211492564,
+      "min": 52.5,
+      "25%": 273.975,
+      "50%": 485.85,
+      "75%": 705.875,
+      "max": 1146.5
+    },
+    "distance_km": {
+      "count": 1000.0,
+      "mean": 18.2851,
+      "std": 9.965500448506798,
+      "min": 1.0,
+      "25%": 9.475,
+      "50%": 17.75,
+      "75%": 27.0,
+      "max": 35.0
+    },
+    "arrival_hour": {
+      "count": 1000.0,
+      "mean": 12.215,
+      "std": 3.7326542443290553,
+      "min": 6.0,
+      "25%": 9.0,
+      "50%": 12.0,
+      "75%": 15.0,
+      "max": 18.0
+    },
+    "actual_yield_kg": {
+      "count": 1000.0,
+      "mean": 6028.399800000001,
+      "std": 3166.3536628965658,
+      "min": 250.0,
+      "25%": 3334.0,
+      "50%": 5997.799999999999,
+      "75%": 8688.425,
+      "max": 12480.1
+    }
+  },
+  "features": [
+    "plot_area_ha",
+    "rainfall_mm",
+    "soil_ph",
+    "seed_kg",
+    "distance_km",
+    "arrival_hour"
+  ]
+}
